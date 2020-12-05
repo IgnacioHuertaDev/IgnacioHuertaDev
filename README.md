@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Huerta</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciohuertadev&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciohuertadev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignaciohuertadev" alt="ignaciohuertadev" /></a> </p>
 
 - 🌱 I’m currently learning **React JS and Node JS**
 
